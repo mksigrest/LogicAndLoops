@@ -1,0 +1,15 @@
+Z:\IGMProfile\Documents\GitHub\LogicAndLoops\logicAndLoops\logicAndLoops\bin\Debug\net8.0\logicAndLoops.exe
+Z:\IGMProfile\Documents\GitHub\LogicAndLoops\logicAndLoops\logicAndLoops\bin\Debug\net8.0\logicAndLoops.deps.json
+Z:\IGMProfile\Documents\GitHub\LogicAndLoops\logicAndLoops\logicAndLoops\bin\Debug\net8.0\logicAndLoops.runtimeconfig.json
+Z:\IGMProfile\Documents\GitHub\LogicAndLoops\logicAndLoops\logicAndLoops\bin\Debug\net8.0\logicAndLoops.dll
+Z:\IGMProfile\Documents\GitHub\LogicAndLoops\logicAndLoops\logicAndLoops\bin\Debug\net8.0\logicAndLoops.pdb
+Z:\IGMProfile\Documents\GitHub\LogicAndLoops\logicAndLoops\logicAndLoops\obj\Debug\net8.0\logicAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IGMProfile\Documents\GitHub\LogicAndLoops\logicAndLoops\logicAndLoops\obj\Debug\net8.0\logicAndLoops.AssemblyInfoInputs.cache
+Z:\IGMProfile\Documents\GitHub\LogicAndLoops\logicAndLoops\logicAndLoops\obj\Debug\net8.0\logicAndLoops.AssemblyInfo.cs
+Z:\IGMProfile\Documents\GitHub\LogicAndLoops\logicAndLoops\logicAndLoops\obj\Debug\net8.0\logicAndLoops.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Documents\GitHub\LogicAndLoops\logicAndLoops\logicAndLoops\obj\Debug\net8.0\logicAndLoops.sourcelink.json
+Z:\IGMProfile\Documents\GitHub\LogicAndLoops\logicAndLoops\logicAndLoops\obj\Debug\net8.0\logicAndLoops.dll
+Z:\IGMProfile\Documents\GitHub\LogicAndLoops\logicAndLoops\logicAndLoops\obj\Debug\net8.0\refint\logicAndLoops.dll
+Z:\IGMProfile\Documents\GitHub\LogicAndLoops\logicAndLoops\logicAndLoops\obj\Debug\net8.0\logicAndLoops.pdb
+Z:\IGMProfile\Documents\GitHub\LogicAndLoops\logicAndLoops\logicAndLoops\obj\Debug\net8.0\logicAndLoops.genruntimeconfig.cache
+Z:\IGMProfile\Documents\GitHub\LogicAndLoops\logicAndLoops\logicAndLoops\obj\Debug\net8.0\ref\logicAndLoops.dll
