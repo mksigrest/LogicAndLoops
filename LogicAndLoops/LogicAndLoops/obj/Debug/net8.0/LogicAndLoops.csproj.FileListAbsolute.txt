@@ -1,4 +1,0 @@
-D:\Profiles\mks7398\source\repos\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.GeneratedMSBuildEditorConfig.editorconfig
-D:\Profiles\mks7398\source\repos\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.AssemblyInfoInputs.cache
-D:\Profiles\mks7398\source\repos\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.AssemblyInfo.cs
-D:\Profiles\mks7398\source\repos\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.csproj.CoreCompileInputs.cache
